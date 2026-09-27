@@ -1,5 +1,7 @@
 # Stable Playground
 
+[![CI](https://github.com/0xkuzeydurden/stable-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/0xkuzeydurden/stable-playground/actions/workflows/ci.yml)
+
 A React and TypeScript playground for exploring wallet interactions on Stable Testnet. Built with Vite, Tailwind CSS, and viem.
 
 ## Features
